@@ -4,7 +4,6 @@
 
 pub fn factorial(num: u64) -> u64 {
     (1..num+1).product()
-
     }
 
     // Complete this function to return the factorial of num
